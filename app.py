@@ -5,7 +5,7 @@ import time
 st.set_page_config(page_title="Streamlit Chatbot", page_icon="🤖")
 
 # Title of the chatbot app
-st.title("Chatbot with Continuous Stream")
+st.title("My_First_Bot_SNR")
 
 # Initialize session state for message storage
 if "messages" not in st.session_state:
